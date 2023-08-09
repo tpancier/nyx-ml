@@ -19,9 +19,9 @@ node.js: https://github.com/tennydesign/nyx
 <br/><br/>
 
 
-Jupyter notebooks in this repository:
-EDA: XXXX
-ML model: XXX
+Jupyter notebooks in this repository:<br/>
+EDA: [NYX ML EDA & Beta Test.ipynb](https://github.com/tpancier/nyx-ml/blob/main/NYX%20ML%20EDA%20%26%20Beta%20Test.ipynb)<br/>
+ML model: [NYX ML match.ipynb](https://github.com/tpancier/nyx-ml/blob/main/NYX%20ML%20match.ipynb)
 
 <br/>
 
@@ -36,7 +36,7 @@ ML model: XXX
 
 The dataset used in the model came from the individuation data. To mitigate the cold start problem, a survey was sent to 200 people in 5 countries, with individuation questions about them and about a close friend. This early data allowed EDA (exploratory data analysis) in preparation for the model.
 
-Jupyter notebook was used for data wrangling and EDA.
+Jupyter notebook was used for data wrangling, EDA and first iteration of the model.
 
 **EDA summary**:
 
